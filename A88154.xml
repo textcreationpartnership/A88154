@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An agreement of the free people of England. Tendered as a peace-offering to this distressed nation. By Lieutenant Colonel Iohn Lilburne, Master William Walwyn, Master Thomas Prince, and Master Richard Overton, prisoners in the Tower of London, May the 1. 1649</title>
+         </titleStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88154</idno><idno type="EEBO-CITATION">99863927</idno>
+  <idno type="VID">130618</idno>
+  <idno type="EEBO-PROQUEST">2264208099</idno>
+  
+            <idno type="STC">Wing L2079</idno>
+            <idno type="STC">Thomason E552_23</idno>
+            <idno type="STC">Thomason E571_10</idno>
+            <idno type="STC">ESTC R204436</idno>
+            <idno type="PROQUEST">99863927</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863927e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130618)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E552[23], 88:E571[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An agreement of the free people of England. Tendered as a peace-offering to this distressed nation. By Lieutenant Colonel Iohn Lilburne, Master William Walwyn, Master Thomas Prince, and Master Richard Overton, prisoners in the Tower of London, May the 1. 1649</title>
+                  <author>Overton, Richard, fl. 1646, attributed name.</author>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Gyles Calvert at the black spread-Eagle at the VVest end of Pauls,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1649]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Incorporates portions of "Foundations of freedom" by John Lilburne or Richard Overton.</note>
+                  <note>Caption title.</note>
+                  <note>Printer's name and place of publication from colophon; date from Thomason annotation.</note>
+                  <note>Annotation on Thomason copy: "Aug. 21. 1649".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Constitutional history --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:130618:1"/>
+            <head>AN AGREEMENT OF THE Free People of England. Tendered as a <hi>Peace-Offering</hi> to this distressed <hi>Nation.</hi>
+            </head>
+            <byline>BY Lieutenant Colonel <hi>Iohn Lilburne,</hi> Master <hi>William Walwyn,</hi> Master <hi>Tho<g ref="char:EOLhyphen"/>mas Prince,</hi> and Master <hi>Richard Overton,</hi> Prisoners in the Tow<g ref="char:EOLhyphen"/>er of <hi>London,</hi>
+               <date>
+                  <hi>May</hi> the 1. 1649.</date>
+            </byline>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matth. 5. verse 9.</hi>
+                  </bibl>
+                  <p>Blessed are the Peace-makers for they shall be called the children of God.</p>
+               </q>
+            </epigraph>
+            <div type="part">
+               <head>A Preparative to all sorts of people.</head>
+               <p>IF afflictions make men wise, and wisdom direct to happinesse, then certainly this Nati<g ref="char:EOLhyphen"/>on is not far from such a degree therof, as may compare if not far exeed, any part of the world: having for some yeares by-past, drunk deep of the Cup of misery and sorrow. We blesse God our consciences are cleer from adding affliction to affliction, having ever laboured from the beginning, of our publick distractions, to compose and reconcile them: &amp; should esteem it the Crown of all our temporal felicity that yet we might be instrumentall in procuring the peace and prosperity of this Common-wealth the land of our Nativity.</p>
+               <p>And therefore according to our promise in our late <hi>Manifestation</hi> of the 14 of <hi>Aprill</hi> 1649. (being perswaded of the necessitie and justnesse thereof) as a <hi>Peace-Offering</hi> to the Free people of this Nation, we tender this ensuing Agreement, not knowing any more ef<g ref="char:EOLhyphen"/>fectuall means to put a small period to all our feares and troubles.</p>
+               <pb n="2" facs="tcp:130618:2"/>
+               <p> It is a way of settlement, though at first much startled at by some in high authority; yet according to the nature of truth, it hath made its own way into the understanding, and ta<g ref="char:EOLhyphen"/>ken root in most nons hearts and affections, so that we have reall ground to hope (what ever shall become of us), <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat our earnest desires and indeavours for good to the people will not altogether be null and frustrate.</p>
+               <p>The life of all things is in the right use and application, which is not our worke only, but every mans conscience must look to it selfe, and not dreame out more seasons and op<g ref="char:EOLhyphen"/>portunities. And this we trust will satisfie all ingenuous people that we are not such wilde, irrationall, dangerous Creatures as we have been aspersed to be; This agreement being the ultimate end and full scope of all our desires and intentions concerning the Govern<g ref="char:EOLhyphen"/>ment of this Nation, and wherein we shall absolutely rest satisfied and acquiesce; nor did we ever give just cause for any to beleeve worse of us by any thing either said or done by us, and which would not in the least be doubted, but that men consider not the interest of those that have so unchristian-like made bold with our good names; but we must bear with men of such interests as are opposite to any part of this Agreement, when neither our Saviour nor his Apostles innocency could stop such mens mouthes whose interests their doctrines and practises did extirpate: And therefore if friends at least would but consider what interest men relate to, whilst they are telling or whispering their aspersions against us, they would find the reason and save us a great deale of labour in clearing our selves, it being a remarkable signe of an ill cause when aspersions supply the place of Arguments.</p>
+               <p>We blesse God that he hath given us time and hearts to bring it to this issue, what fur<g ref="char:EOLhyphen"/>ther he hath for us to do is yet only knowne to his wisedom, to whose will and pleasure we shall willingly submit; we have if we look with the eyes of frailly, enemies like the sons of <hi>Anak,</hi> but if with the eyes of faith and confidence in a righteous God and a just cause, we see more with us then against us,</p>
+               <closer>
+                  <signed>Iohn Lilburn. Walliam Walwyn.<lb/> Thomas Prince. Richard Overton.</signed>
+                  <dateline>From our causelesse captivity in the Tower<lb/> of <hi>London,</hi>
+                     <date>
+                        <hi>May</hi> 1. 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Agreement it selfe thus followeth.</head>
+               <p>AFter the long and tedious prosecution of a most unnaturall cruell, homebred war, occasioned by divisions and distempers amongst our selves, and those distempers a<g ref="char:EOLhyphen"/>rising from the uncertaintie of our Government, and the exercise of an unlimited or Ar<g ref="char:EOLhyphen"/>bitrary power, by such as have been trusted with Supreme and subordinate Authority, wher<g ref="char:EOLhyphen"/>by multitudes of grevances and intolerable oppressions have been brought upon us. And finding after eight yeares experience and expectation all indeavours hitherto used, or re<g ref="char:EOLhyphen"/>medies hitherto applyed, to have encreased rather then diminished our distractions, and that if not speedily prevented our falling againe into factions and divisions, will not only deprive us of the benefit of all those wonderful Victories God hath vouchsafed against such as sought our bondage, but expose us first to poverty and misery, and then to be destroyed by forraigne enemies.</p>
+               <p>And being earnestly desirous to make a right use of that opportunity God hath given us to make this Nation Free and Happy, to reconcile our differen<g ref="char:EOLhyphen"/>ces, and beget a perfect amitie and friendship once more amongst us, that we may
+<pb n="3" facs="tcp:130618:2"/>stand clear in our consciences before Almighty God, as unbyassed by any corrupt Interest or particular advantages, and manifest to all the world that our indeavours have not proceeded from malice to the persons of any, or enmity against opinions; but in reference to the peace and prosperity of the Common-wealth, and for pre<g ref="char:EOLhyphen"/>vention of like distractions, and removall of all grievances; We the free People of <hi>England,</hi> to whom God hath given hearts, means and opportunity to eff<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct the same, do with submission to his wisdom, in his name, and desiring the equity thereof may be to his praise and glory; Agree to ascertain our Government, to abolish all arbitrary Power, and to set bounds and limits both to our Supreme, and all Subordinate Authority, and remove all known Grievances.</p>
+            </div>
+            <div type="agreement">
+               <head>And accordingly do declare and publish to all the world, that we are agreod as followeth,</head>
+               <p n="1">I. THat the Supreme Authority of <hi>England</hi> and the Territories therewith in<g ref="char:EOLhyphen"/>corporate, shall be and reside henceforward in a Representative of the People consisting of four hundred persons, but no more; in the choice of whom (according to naturall right) all men of the age of one and twenty yeers and upwards (not being servants, or receiving alms, or having served the late King in Arms or voluntary Contributions) shall have their voices; and be capable of being ele<g ref="char:EOLhyphen"/>cted to that Supreme Trust those who served the King being disabled for ten years onely. All things concerning the distribution of the said four hundred Members proportionable to the respective parts of the Nation, the severall places for Ele<g ref="char:EOLhyphen"/>ction, the manner of giving and taking of Voyces, with all Circumstances of like nature, tending to the compleating and equall proceedings in Elections, as also their Salary, is referred to be setled by this present Parliament, in such sort as the next Representative may be in a certain capacity to meet with safety at the time herein expressed: and such circumstances to be made more perfect by future Repre<g ref="char:EOLhyphen"/>sentatives.</p>
+               <p n="2">II. That two hundred of the four hundred Members, and not lesse, shall be taken and esteemed for a competent Representative; and the major Voyces present shall be concluding to this Nation. The place of Session, and choice of a Speaker, with other circumstances of that nature, are referred to the care of this and future Represen<g ref="char:EOLhyphen"/>tatives.</p>
+               <p n="3">III. And to the end all publick Officers may be certainly accountable, and no Facti<g ref="char:EOLhyphen"/>ons made to maintain corrupt Interests, no Officer of any salary Forces in Army or Garison, nor any Treasurer or Receiver of publick monies, shall (while such) be ele<g ref="char:EOLhyphen"/>cted a Member for any Representative; and if any Lawyer shall at any time be chosen, he shall be uncapable of practice as a Lawyer, during the whole time of that Trust. And for the same reason, and that all persons may be capable of subjection as well as rule.</p>
+               <p n="4">IIII. That no Member of the present Parliament shall be capable of being e<g ref="char:EOLhyphen"/>lected of the next Representative, nor any Member of any future Representative shall be capable of being chosen for the Representative immediately succeeding: but are free to be chosen, one Representative having intervened: Nor shall any Member of any Representative be made either Receiver, Treasurer, or other Officer during that imployment.</p>
+               <p n="5">V. That for avoyding the many dangers and inconveniences apparantly arising from the long continuance of the same persons in Authority; We Agree, that this pre<g ref="char:EOLhyphen"/>sent
+<pb n="4" facs="tcp:130618:3"/>Parliament shall end the first Wednesday in <hi>August</hi> next 1649, and thenceforth be of no power or Authority; and in the mean time shall order and direct the Election of a new and equall Representative, according to the true intent of this our Agreement: and so as the next Representative may meet and sit in power and Authority as an effectu<g ref="char:EOLhyphen"/>all Representative upon the day following; namely, the first Thursday of the same <hi>Au<g ref="char:EOLhyphen"/>gust,</hi> 1649.</p>
+               <p n="6">VI. We agree, if the present Parliament shall omit to order such Election or Meet<g ref="char:EOLhyphen"/>ting of a new Representative; or shall by any means be hindered from performance of that Trust:</p>
+               <p>That in such case, we shall for the next Representative proceed in electing thereof in those places, &amp; according to that manner &amp; number formerly accustomed in the choice of Knights and Burgesses; observing onely the exceptions of such persons from being Electors or Elected, as are mentioned before in the first, third, and fourth Heads of this Agreement: It being most unreasonable that we should either be kept from new, fre<g ref="char:EOLhyphen"/>quent and successive Representatives, or that the supreme Authority should fall into the hands of such as have manifested disaffection to our common Freedom, and endeavour<g ref="char:EOLhyphen"/>ed the bondage of the Nation.</p>
+               <p n="7">VII. And for prserving the supreme authority from falling into the hands of any whom the people have not, or shall not chuse,</p>
+               <p>We are resolved and agreed (God willing) that a <hi>new Representative</hi> shall be upon the first <hi>Thursday</hi> in <hi>August</hi> next aforesaid: the ordering and disposing of themselves, as to the choice of a speaker, and the like circumstances, is hereby left to their discre<g ref="char:EOLhyphen"/>tion: But are in the extent and exercise of Power, to follow the direction and rules of this agreement; and are hereby authorised and required according to their best judge<g ref="char:EOLhyphen"/>ments, to set rules for future equall distribution, and election of Members as is herein intended and enjoyned to be done, by the present Parliament.</p>
+               <p n="8">VIII. And for the preservation of the supreme Authority (in all times) entirely in the hands of such persons only as shal be chosen thereunto —we <hi>agree and declare:</hi> That the next &amp; al fu<g ref="char:EOLhyphen"/>ture Representatives, shall continue in full power for the space of one whole year: and that the people shall of course, chuse a Parliament once every year, so as all the members there<g ref="char:EOLhyphen"/>of may be in a capacity to meet, and take place of the foregoing Representative: the first <hi>Thursday</hi> in every <hi>August</hi> for ever if God so psease; Also (for the same reason) that the next or any future Representative being met, shall continue their Session day by day with<g ref="char:EOLhyphen"/>out intermission for four monthes at the least; and after that shall be at Liberty to adjuorn from two monthes to two months, as they shall see cause untill their yeer be expired, but shall sit no longer then a yeer upon pain of treason to every member that shall exceed that time: and in times of adjurnment shall not erect a Councel of State but refer the managing of affairs in the intervals to a Committee of their own members giving such instructions, and publish them, as shall in no measure contradict this agreement.</p>
+               <p n="9">IX. And that none henceforth may be ignorant or doubtful concerning the power of the Supreme authority, and of the affairs, about which the same is to be conversant and ex<g ref="char:EOLhyphen"/>ercised: we agree and declare, that the power of Representatives shall extend without the consent or concurrence of any other person or persons,
+<list>
+                     <item>1 To the conservation of Peace and commerce with forrain Nations.</item>
+                     <item>2 To the preservation of those safe guards, and securities of our lives, limbes, liber<g ref="char:EOLhyphen"/>ties, properties, and estates, contained in the Petition of Right, made and enacted in the third year of the late King.</item>
+                     <pb n="5" facs="tcp:130618:3"/>
+                     <item> 3 To the raising of moneys, and generally to all things as shall be evidently conducing to those ends, or to the enlargement of our freedom, redress of grievances, and prosperity of the Common-wealth.</item>
+                  </list>
+               </p>
+               <p>For security whereof, having by wofull experience found the prevalence of corrupt in<g ref="char:EOLhyphen"/>terests powerfully inclining most men once entrusted with authority, to pervert the same to their own domination, and to the prejudice of our Peace and Liberties, we therefore further agree and declare.</p>
+               <p n="10">X. That we do not inpower or entrust our said representatives to continue in force, or to make any Lawes, Oaths, or Covenants, whereby to compell by penalties or otherwise any person to any thing in or about matters of faith, Religion or Gods worship or to restrain any person from the profession of his faith, or exercise of Religion according to his Con<g ref="char:EOLhyphen"/>science, nothing having caused more distractions, and heart burnings in all ages, then persecution and molestation for matters of Conscience in and about Religion:</p>
+               <p n="11">XI We doe not impower them to impresse or constraint any person to serve in war by Sea or Land every mans Conscience being to be satisfied in the justness of that cause where<g ref="char:EOLhyphen"/>in he hazards his own life, or may destroy an others.</p>
+               <p>And for the quieting of all differences, and abolishing of all enmity and rancour, as much as is now possible for us to effect.</p>
+               <p n="12">XII. We agree, That after the end of this present Parliament, no person shall be questioned for any thing said or done in reference to the late Warres, or publique diffe<g ref="char:EOLhyphen"/>rences; otherwise then in pursuance of the determinations of the present Parliament, against such as have adhered to the King against the Liberties of the people: And saving that Accomptants for publick moneys received, shall remain accomptable for the same.</p>
+               <p n="13">XIII. That all priviledges or exemptions of any persons from the Lawes, or from the ordinary course of Legall proceedings, by vertue of any Tenure, Grant, Charter, Patent, Degree, or Birth, or of any place of residence, or refuge, or priviledge of Parliament, shall be henceforth void and null; and the like not to be made not revived again.</p>
+               <p n="14">XIIII. We doe not impower them to give judgment upon any ones person or estate, where no Law hath been before provided, nor to give power to any other Court or Jurisdi<g ref="char:EOLhyphen"/>ction so to do, Because where there is no Law, there is no transgression, for men or Magi<g ref="char:EOLhyphen"/>strates to take Cognifance of; neither doe we impower them to intermeddle with the execution of any Law whatsoever.</p>
+               <p n="15">XV. And that we may remove all long setled Grievances, and thereby as farre as we are able, take away all cause of complaints, and no longer depend upon the uncertain inclination of Parliaments to remove them, nor trouble our selves or them with Peti<g ref="char:EOLhyphen"/>tions after Petitions, as hath been accustomed, without fruit or benefit; and knowing no cause why any should repine at our removall of them, except such as make advantage by their continuance, or are related to some corrupt Interests, which we are not to regard.</p>
+               <p>We agree and Declare,</p>
+               <p n="16">XVI. That it shall not be in the power of any Representative, to punish, or cause to be punished, any person or persons for refusing to answer to questions against themselves in Criminall cases.</p>
+               <p n="17">XVII. That it shall not be in their power, after the end of the next Representative, to continue or constitute any proceedings in Law that shall be longer then Six months in the final determination of any cause past all Appeal, nor to continue the Laws or proceed<g ref="char:EOLhyphen"/>ings therein in any other Language then English, nor to hinder any person or persons from
+<pb n="6" facs="tcp:130618:4"/>pleading their own Causes, or of making use of whom they please to plead for them.</p>
+               <p>The reducing of these and other the like provisions of this nature in this Agreement provided, and which could not now in all particulars be perfected by us, is intended by us to be the proper works of faithful Representatives.</p>
+               <p n="18">XVIII. That it shall not be in their power to continue or make any Laws to abridge or hinder any person or persons, from trading or merchandizing into any place beyond the Seas, where any of this Nation are free to Trade.</p>
+               <p n="19">XIX. That it shall not be in their power to continue Excise or Customes upon any sort of Food, or any other Goods, Wares, or Commodities, longer then four months after the beginning of the next Representative, being both of them extreme burthen<g ref="char:EOLhyphen"/>some and oppressive to Trade, and so expensive in the Receipt, as the moneys expended therein (if collected as Subsidies have been) would extend very far towards defraying the publick Charges; and forasmuch as all Moneys to be raised are drawn from the People; such burthensome and chargeable wayes, shall never more be revived, nor shall they raise Moneys by any other ways (after the aforesaid time) but only by an equal rate in the pound upon every reall and personall estate in the Nation.</p>
+               <p n="20">XX. That it shall not be in their power to make or continue any Law, whereby mens reall or personall estates, or any part thereof, shall be exempted from payment of their debts; or to imprison any person for debt of any nature, it being both unchristian in it self, and no advantage to the Creditors, and both a reproach and prejudice to the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+               <p n="21">XXI. That it shall not be in their power to make or continue any Law, for taking away any mans life, except for murther, or other the like hainous offences destructive to humane Society, or for endevouring by force to destroy this our Agreement, but shall use their uttermost endeavour to appoint punishments equall to offences: that so mens Lives, Limbs, Liberties, and estates, may not be liable to be taken away upon trivial or slight oc<g ref="char:EOLhyphen"/>casions as they have been; and shall have speciall care to preserve, all sorts of people from wickedness misery and beggery: nor shall the estate of any capitall offendor be confi<g ref="char:EOLhyphen"/>scate but in cases of treason only; and in all other capitall offences recompence shall be made to the parties damnified, as well out of the estate of the Malifactor, as by loss of life, according to the conscience of his jury.</p>
+               <p n="22">XXII. That it shall not be in their power to continue or make any Law, to deprive any person, in case of Tryals for Life, Limb, Liberty, or Estate, from the benefit of witnesses, on his, or their behalf; nor deprive any person of those priviledges, and liberties, con<g ref="char:EOLhyphen"/>tained in the <hi>Petition of Right,</hi> made in the third yeer of the late King <hi>Charls.</hi>
+               </p>
+               <p n="23">XXIII. That it shall not be in their power to continue the Grievance of Tithes, longer then to the end of the next Representative; in which time, they shall provide to give rea<g ref="char:EOLhyphen"/>sonable satisfaction to all Impropriators: neither shall they force by penalties or other<g ref="char:EOLhyphen"/>wise, any person to pay towards the maintenance of any Ministers, who out of conscience cannot submit thereunto.</p>
+               <p n="24">XXIV. That it shall not be in their power to impose Ministers upon any the respective Parishes, but shall give free liberty to the parishioners of every particular parish, to chuse such as themselves shall approve; and upon such terms, and for such reward, as themselves shall be willing to contribute, or shall contract for. Provided, none be chu<g ref="char:EOLhyphen"/>sers but such as are capable of electing Representatives.</p>
+               <p n="25">XXV. That it shal not be in their power, to continue or make a law, for any other way of Judgments, or Conviction of life, limb, liberty, or estate, but onely by twelve sworn men of the Neighbor-hood; to be chosen in some free way by the people; to be directed
+<pb n="7" facs="tcp:130618:4"/>before the end of the next Representative, and not picked and imposed, as hitherto in many places they have been.</p>
+               <p n="26">XXVI. They shall not disable any person from bearing any office in the Common-wealth, for any opinion or practice in Religion, excepting such as maintain the Popes (or other forraign) Supremacy.</p>
+               <p n="27">XXVII. That it shal not be in their power to impose any publike officer upon any Coun<g ref="char:EOLhyphen"/>ties, Hundreds, Cities, Towns, or Borroughs; but the people capable by this Agreement to chuse Representatives, shall chuse all their publike Officers that are in any kinde to administer the Law for their respective places, for one whole yeer, and no longer, and so from yeer to yeer: and this as an especial means to avoyd Factions, and Parties.</p>
+               <p>And that no person may have just cause to complain, by reason of taking away the Excise and Customs, we agree,</p>
+               <p n="28">XXVIII. That the next, and all future Representatives shall exactly keep the publike Faith, and give ful satisfaction, for all securities, debts, arrears or damages, (justly charge<g ref="char:EOLhyphen"/>able) out of the publike Treasury; and shall confirm and make good all just publike Pur<g ref="char:EOLhyphen"/>chases and Contracts that have been, or shall be made; save that the next Representa<g ref="char:EOLhyphen"/>tive may confirm or make null in part or in whole, all gifts of Lands, Moneys, Offices, or otherwise made by the present Parliament, to any Member of the House of Commons, or to any of the Lords, or to any of the attendants of either of them.</p>
+               <p>And for as much as nothing threateneth greater danger to the Common-wealth, then that the Military power should by any means come to be superior to the Civil Au<g ref="char:EOLhyphen"/>thority,</p>
+               <p n="29">XXIX. We declare and agree, That no Forces shal be raised, but by the Representatives, for the time being; and in raising thereof, that they exactly observe these Rules, name<g ref="char:EOLhyphen"/>ly, That they allot to each particular County, City, Town, and Borrugh, the raising, furnishing, agreeing, and paying of a due proportion, according to the whole number to be levyed; and shall to the Electors of Representatives in each respective place, give Free liberty, to nominate and appoint all Officers appertaining to Regiments, Troops, and Companies, and to remove them as they shall see cause, Reserving to the Repre<g ref="char:EOLhyphen"/>sentative, the nominating, and appointing onely of the General, and all General-Of<g ref="char:EOLhyphen"/>ficers; and the ordering, regulating, and commanding of them all, upon what service shall seem to them necessary for the Safety, Peace, and Freedom of the Common-wealth.</p>
+               <p>And in as much as we have found by sad experience, That generally men make little or nothing, to innovate in Government, to exceed their time and power in places of trust, to introduce an Arbitrary, and Tyrannical power, and to overturn all things into Anarchy and Confusion, where there are no penalties imposed for such destructive crimes and offences.</p>
+               <p n="30">XXX. We therefore agree and declare, That it shall not be in the power of any Re<g ref="char:EOLhyphen"/>presentative, in any wise, to render up, or give, or take away any part of this Agree<g ref="char:EOLhyphen"/>ment, nor level mens Estates, destroy Propriety, or make all things Common: And if any Representative shall endevor, as a Representative, to destroy this Agreement, every Member present in the House, not entering or immediately publishing his dissent, shall incur the pain due for High Treason, and be proceeded against accordingly; and if any person or persons, shall by force endevor or contrive, the destruction thereof, each per<g ref="char:EOLhyphen"/>son so doing, shall likewise be dealt withal as in cases of Treason.</p>
+               <p>And if any person shal by force of Arms disturb Elections of Representatives, he shall incurr the penalty of a Riot; and if any person not capable of being an Elector, or Elected, shal intrude themselves amongst those that are, or any persons shall behave them<g ref="char:EOLhyphen"/>selves rudely and disorderly, such persons shal be liable to a presentment by a grand Inquest
+<pb n="8" facs="tcp:130618:5"/>and to an indictment upon misdemeanor; and be fined and otherwise punish'd according to the discretion and verdict of a Jury. And all Laws made, or that shall be made contrary to any part of this Agreement, are hereby made null and void.</p>
+               <p>Thus, as becometh a free People, thankfull unto God for this blessed opportunity, and desirous to make use thereof to his glory, in taking off every yoak, and removing every burthen, in delivering the captive, and setting the oppressed free; we have in all the particular Heads fore mentioned, done as we would be done unto, and as we trust in God will abolish all occasion of offence and discord, and produce the lasting Peace and Pros<g ref="char:EOLhyphen"/>perity of this Common wealth: and accordingly do in the sincerity of our hearts and consciences, as in the presence of Almighty God, give cleer testimony of our absolute a<g ref="char:EOLhyphen"/>greement to all and every part hereof by subscribing our hands thereunto.</p>
+               <closer>
+                  <dateline>Dated <date>the first day of <hi>May,</hi> in the Yeer of our Lord 1649.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>John Lilburn.</hi>
+                        </item>
+                        <item>
+                           <hi>William Walwyn.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Prince.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Overton.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>April 30. 1649.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <signed>Gilbert Mabbot.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Gyles Calvert</hi> at the black spread-Eagle at the VVest end of <hi>PAƲLS</hi>
+            </p>
+            <pb facs="tcp:130618:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
